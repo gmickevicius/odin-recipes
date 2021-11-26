@@ -1,1 +1,2 @@
 # odin-recipes
+This project taught me how to utilize basic HTML to create a web page with links to other pages, how to add images, how to create ordered and unordered lists, and how to push the info to Github to keep track of edits.
